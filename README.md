@@ -16,7 +16,7 @@ So, before using templates for the first time, you need to install these two tas
 
 Then you can install this template using
 
-    $ mix template.install gen_template_escript
+    $ mix template.install hex gen_template_escript
 
 ## Use
 
