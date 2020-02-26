@@ -28,7 +28,7 @@ $ mix gen escript <name>
 
 This will create a basic mix project with main escript module (module with `main` function) located at
 the lib folder, under a folder with the given `<name>` in a file called `cli.ex`.
-This file will contain a module called `<name-in-cammel-case>.CLI` and will have
+This file will contain a module called `<name-in-camel-case>.CLI` and will have
 a `main` function.
 
 All is setup in the `mix.exs` file in order to build an escript using `mix escript.build`.
