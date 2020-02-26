@@ -6,7 +6,7 @@
 
 ## Install
 
-This template is installed using the Dave Tomas' `template.install` mix task.
+This template is installed using the `template.install` mix task from Dave Thomas (@pragdave).
 Escripts are generated from it using the `mix gen` task.
 
 So, before using templates for the first time, you need to install these two tasks:
